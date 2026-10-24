@@ -1,0 +1,19 @@
+{
+  "part_present": true,
+  "inspection_status": "REJECT",
+  "measurements_mm": {
+    "length": 29.95,
+    "width": 7.95,
+    "hole_diameter": 3.05,
+    "hole_x_from_left": 5.73,
+    "hole_y_from_bottom": 3.97
+  },
+  "result": {
+    "length": "PASS",
+    "width": "PASS",
+    "hole_diameter": "PASS",
+    "hole_x_position": "FAIL",
+    "hole_y_position": "PASS"
+  },
+  "reject_reason": "HOLE_POSITION_OUT_OF_TOLERANCE"
+}

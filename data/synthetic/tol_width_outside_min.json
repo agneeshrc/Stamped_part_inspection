@@ -1,0 +1,22 @@
+{
+  "true_length_mm": 30.0,
+  "true_width_mm": 7.8,
+  "true_hole_d_mm": 3.0,
+  "true_hole_x_mm": 6.0,
+  "true_hole_y_mm": 4.0,
+  "true_rotation_deg": 0.0,
+  "part_cx_px": 500.0,
+  "part_cy_px": 300.0,
+  "img_w": 1000,
+  "img_h": 600,
+  "true_x_left_px": 200.0,
+  "true_x_right_px": 800.0,
+  "true_y_top_px": 222.0,
+  "true_y_bottom_px": 378.0,
+  "true_hole_cx_px": 320.0,
+  "true_hole_cy_px": 298.0,
+  "true_hole_r_px": 30.0,
+  "expected_status": "REJECT",
+  "expected_reason": "WIDTH_OUT_OF_TOLERANCE",
+  "include_hole": true
+}

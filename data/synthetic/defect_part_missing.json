@@ -1,0 +1,22 @@
+{
+  "true_length_mm": null,
+  "true_width_mm": null,
+  "true_hole_d_mm": null,
+  "true_hole_x_mm": null,
+  "true_hole_y_mm": null,
+  "true_rotation_deg": null,
+  "part_cx_px": null,
+  "part_cy_px": null,
+  "img_w": 1000,
+  "img_h": 600,
+  "true_x_left_px": null,
+  "true_x_right_px": null,
+  "true_y_top_px": null,
+  "true_y_bottom_px": null,
+  "true_hole_cx_px": null,
+  "true_hole_cy_px": null,
+  "true_hole_r_px": null,
+  "expected_status": "REJECT",
+  "expected_reason": "PART_NOT_FOUND",
+  "include_hole": false
+}
